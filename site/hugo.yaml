@@ -563,9 +563,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    title: "배해인."
+    subtitle: "웹 개발 공부"
+    content: "컴퓨터인공지능학과 학생이고, 웹 개발을 공부하고 있습니다. 지금은 간단한 사이트를 직접 만들고 배포하는 연습을 하고 있습니다."
     image: /images/hero.svg
     bottomImage:
       enable: true
