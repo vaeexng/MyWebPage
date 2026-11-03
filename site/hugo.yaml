@@ -572,9 +572,9 @@ params:
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Resume"
-      url: "#"
-      download: true
+      name: "자기소개 보기"
+      url: "#about"
+      download: false
       newPage: false
     socialLinks:
       fontAwesomeIcons:
