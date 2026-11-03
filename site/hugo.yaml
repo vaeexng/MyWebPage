@@ -589,22 +589,25 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "자기소개"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      웹 개발에 관심이 있어서 공부하고 있습니다. 웹사이트로 정보를 전달하고 사람들이 편하게 쓸 수 있는 서비스를 직접 만든다는 점이 흥미로웠습니다. 특히 아이디어가 실제 화면과 기능으로 나오는 과정이 재미있었습니다.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      목표는 웹사이트를 처음부터 끝까지 혼자 만들어 보는 것입니다. 그래서 HTML, CSS, JavaScript 기초를 꾸준히 공부하고, 배운 내용을 작은 프로젝트에 적용해 볼 계획입니다. 프로젝트를 하다가 생기는 오류도 스스로 찾아 해결하는 연습을 하고 있습니다.
+
+      Git과 GitHub는 이 사이트를 만들면서 커밋과 배포에 직접 써 보고 있습니다.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "수업과 개인 학습에서 쏘 본 기술과 도구:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Java"
+        - "C"
+        - "Linux 기본 명령어"
+        - "Vs Code"
+        - "Git / GitHub"
+        - "Hugo"
+        - "GitHub Pages"
 
   # Experience
   experience:
