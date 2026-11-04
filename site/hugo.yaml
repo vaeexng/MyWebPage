@@ -222,25 +222,17 @@ params:
               - 기준값을 알맞은 위치에 배치한 뒤 양쪽 배열에 재귀적으로 정렬을 적용했습니다.
               - 원소의 교환 횟수를 계산하도록 구현했습니다. 
 
-      - company: "Apple"
-        companyUrl: "https://example.com"
+      - company: "File System"
         jobs: 
-        - name: "Junior Software Developer"
-          date: "Jan 2020 - Aug 2020"
-          featuredItems:
-            fontAwesomeIcons:
-              - icon: fa-brands fa-react
-                url: https://react.dev/
-              - icon: fab fa-x-twitter
-                url: https://example.com
-            customIcons:
-              - icon: /fav.png
-                url: "https://example.com"
+        - name: "Linux 수업 과제"
+          date: "2026년 10월 12일"
           content: |
-            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+            Linux에서 디렉터리와 파일을 생성하고 이동 및 복사하는 실습을 진행했습니다.
 
-            - Lead backend developer for a product.
-            - Created a frontend design for a product.
+            - 사용자 디렉터리 아래 hw2를 만들고, 그 안에 dir1부터 dir10까지 생성했습니다.
+            - 텍스트 파일을 내려받아 dir8로 이동하고 복사본을 dir10에 두고 hw2.txt로 이름을 변경했습니다.
+            - cd 명령어를 사용하지 않고 절대 경로와 상대 경로를 활용해 작업을 수행했습니다.
+            - 명령어 사용을 최소화하면서 디렉터리 생성 파일 이동 및 복사 방법을 익혔습니다.
 
       - company: "Netflix"
         companyUrl: "https://example.com"
