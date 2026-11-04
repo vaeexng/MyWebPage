@@ -234,16 +234,17 @@ params:
             - cd 명령어를 사용하지 않고 절대 경로와 상대 경로를 활용해 작업을 수행했습니다.
             - 명령어 사용을 최소화하면서 디렉터리 생성 파일 이동 및 복사 방법을 익혔습니다.
 
-      - company: "Netflix"
-        companyUrl: "https://example.com"
+      - company: "File Link"
         jobs:
-        - name: "UI/UX Designer"
-          date: "June 2017 - Nov 2019"
+        - name: "Linux 수업 과제"
+          date: "2026년 10월 22일"
           content: |
-            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+            Linux 환경에서 하드 링크와 심볼릭 링크의 생성 및 동작 차이를 확인하는 실습을 진행했습니다.
 
-            - Lead backend developer for a product.
-            - Created a frontend design for a product.
+            - 텍스트 파일을 2개 생성하고 하드링크와 심볼릭링크를 만들었습니다.
+            - stat 명령어로 파일의 inode 번호와 정보를 확인했습니다.
+            - 원본 파일의 내용을 수정하거나 삭제하면서 각 링크의 동작 변화를 비교했습니다.
+            - 파일 수정 및 삭제에 따른 하드 링크와 심볼릭 링크의 차이를 직접 확인했습니다.
 
       - company: "Google"
         companyUrl: "https://example.com"
