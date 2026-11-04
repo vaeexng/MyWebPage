@@ -250,19 +250,17 @@ params:
   # Education
   education:
     enable: true
-    # title: "Custom Name"
+    title: "대표 활동"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "목적과 역할"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "Hugo 개인 소개 웹사이트"
+        date: "2026년 10월 13일 ~ 11월 7일"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - 목적: Hugo 테마를 활용해 개인 소개 사이트를 만들고, 웹 사이트를 구성하고 배포하는 과정을 직접 경험하기 위해 시작했습니다.
+            - 역할: 제공된 테마를 살펴보고 나에게 맞게 수정할 부분을 정했으며, 자기소개와 활동 내용을 작성하고 웹사이트 설정 및 배포도 직접 진행했습니다.
+            - 상태: 진행 중입니다.
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "Massachusetts Institute of Technology"
