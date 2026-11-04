@@ -9,7 +9,8 @@ defaultContentLanguageInSubdir: false
 
 languages:
   en:
-    languageName: "English"
+    languageName: "한국어"
+    languageCode: "ko"
     weight: 1
     contentDir: "content"
     menu:
