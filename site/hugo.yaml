@@ -246,12 +246,6 @@ params:
             - 원본 파일의 내용을 수정하거나 삭제하면서 각 링크의 동작 변화를 비교했습니다.
             - 파일 수정 및 삭제에 따른 하드 링크와 심볼릭 링크의 차이를 직접 확인했습니다.
 
-      - company: "Google"
-        companyUrl: "https://example.com"
-        jobs:
-        - name: "Product Designer"
-          date: "Feb 2016 - Mar 2017"
-          content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
