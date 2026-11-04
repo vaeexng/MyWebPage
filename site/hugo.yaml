@@ -196,31 +196,18 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "학습 이력"
     items:
-      - company: "Facebook"
-        companyUrl: "https://example.com"
+      - company: "MergeSort"
         jobs:
-          - name: "Senior Software Developer"
-            date: "Jan 2023 - present"
-            content: "I am currently working as a senior software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-            info:
-              content: Working as a senior software developer
-            featuredItems:
-              fontAwesomeIcons:
-                - icon: fa-brands fa-react
-                  url: https://react.dev/
-                  tooltip: Example tooltip content
-                - icon: fab fa-x-twitter
-                  url: https://example.com
-                  # tooltip: Example tooltip content
-              customIcons:
-                - icon: /fav.png
-                  url: "https://example.com"
-                  tooltip: Example tooltip content
-          - name: "Software Developer"
-            date: "Jan 2022 - Dec 2023"
-            content: "I worked as a software developer. I worked on a project that will be used to help people find the best way to get around the city."
+          - name: "알고리즘 수업 과제 (C++)"
+            date: "2026년 10월 11일"
+            content: |
+              수업에서 배운 분할 정복 방식을 C++로 구현했습니다.
+
+              - 배열을 반으로 나누고, 각 부분 배열의 원소를 비교해 작은 값부터 합쳤습니다.
+              - 임시 배열을 활용해 정렬 결과를 저장하고, 원래 배열에 다시 반영했습니다.
+              - 원소 간 비교 횟수를 계산하도록 구현했습니다.
 
       - company: "Amazon"
         companyUrl: "https://example.com"
