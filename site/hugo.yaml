@@ -209,18 +209,18 @@ params:
               - 임시 배열을 활용해 정렬 결과를 저장하고, 원래 배열에 다시 반영했습니다.
               - 원소 간 비교 횟수를 계산하도록 구현했습니다.
 
-      - company: "Amazon"
-        companyUrl: "https://example.com"
+      - company: "Quick Sort"
         jobs:
-          - name: "Software Developer"
-            date: "Sep 2020 - Dec 2021"
+          - name: "알고리즘 수업 과제 (C++)"
+            date: "2026년 10월 11일"
             info:
-              content: I worked as a software developer for more than one year in Amazon.
+              content: 원소를 교환하는 횟수를 카운트하여 출력하도록 구현했습니다.
             content: |
-              I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+              기준 원소(Pivot)를 중심으로 배열을 나누는 방식을 구현했습니다.
 
-              - Lead backend developer for a product.
-              - Created a frontend design for a product.
+              - 마지막 원소를 기준값으로 선택하고, 작은 값과 큰 값으로 나누었습니다.
+              - 기준값을 알맞은 위치에 배치한 뒤 양쪽 배열에 재귀적으로 정렬을 적용했습니다.
+              - 원소의 교환 횟수를 계산하도록 구현했습니다. 
 
       - company: "Apple"
         companyUrl: "https://example.com"
