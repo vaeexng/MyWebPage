@@ -54,7 +54,7 @@ GitHub 저장소의 Settings → Pages → Source는 **GitHub Actions**로 설�
 
 | 자료 | 구분 | 출처 | 조건 |
 |---|---|---|---|
-| Hugo Profile 테마 | 외부 | https://github.com/gurusabarish/hugo-profile | 원본 `LICENSE` 파일을 유지했습니다 |
+| Hugo Profile 테마 | 외부 | https://github.com/gurusabarish/hugo-profile | MIT License, 원본 `LICENSE` 파일 유지 |
 | 배포 설정 스크립트 | 외부(수업 제공) | 수업에서 제공한 `prepare_github_pages.py` | 수업 자료 |
 | 소개 글, 프로젝트 설명 | 직접 작성 | 본인 (문장 다듬기에 AI의 도움을 받았습니다) | - |
 | 영화 사이트 화면 이미지 | 직접 제작 | 직접 만든 사이트(movie-lab)를 캡처한 이미지 | - |
