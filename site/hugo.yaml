@@ -336,7 +336,7 @@ params:
         content: |-
           Vue 기반 TMDB 프로젝트를 두 가지 방식으로 배포하는 실습을 진행했습니다.
           첫 번쨰는 npm run build로 빌드한 결과물을 GitHub Pages에 배포했고, 두 번째는 GitHub Actions를 이용해 배포 과정을 자동화했습니다. 두 가지 방식을 비교하며 Vue 프로젝트의 빌드와 배포 과정을 익혔습니다.
-        image: /images/projects/converter.jpg
+        image: /images/projects/movie-lab.png
         featured:
           name: Movie Website
           link: https://Vaeexng.github.io/movie-lab/
