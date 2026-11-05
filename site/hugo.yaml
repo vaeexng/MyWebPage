@@ -298,7 +298,7 @@ params:
           결과: 수정한 내용을 GitHub에 push한 뒤 실제 공개 사이트에도 반영되는 것을 확인했습니다. 이 과정을 통해 Git을 이용한 버전 관리와 GitHub Pages 배포 방법을 익힐 수 있었습니다.
 
           다음 개선: 모바일과 태블릿에서도 보기 편하도록 화면을 다듬고, 디자인과 기능을 조금씩 개선해 나갈 계획입니다.
-        image: /images/projects/profile.png
+        image: /images/projects/my-site.png
         featured:
           name: 사이트 보기
           link: https://vaeexng.github.io/MyWebPage/
