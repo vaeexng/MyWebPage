@@ -339,7 +339,7 @@ params:
         image: /images/projects/converter.jpg
         featured:
           name: Movie Website
-          link: https://vaeexng.github.io/movie-lab/
+          link: https://Vaeexng.github.io/movie-lab/
         badges:
           - "Vue"
           - "GitHub Pages"
