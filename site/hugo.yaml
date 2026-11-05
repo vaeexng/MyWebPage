@@ -373,7 +373,7 @@ params:
   terms:
     read: "읽기"
     toc: "목차"
-    copyright: "© 2026 Bae Haein. All rights reserved."
+    copyright: "All rights reserved."
     emailText: "이 사이트 공유하기"
 
   datesFormat:
