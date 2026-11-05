@@ -257,15 +257,6 @@ params:
           - 테마 ZIP 파일을 받아 GitHub 저장소에 업로드하고, 이후 GitHub Actions를 이용해 코드를 수정하고 push하면 웹사이트가 자동으로 배포되도록 설정했습니다. 
           - 사이트에 들어갈 소개 문구와 설정을 수정하고 변경할 때마다 Git에 기록했습니다.
           - Hugo Profile은 자기소개, 기술, 프로젝트 등을 한 페이지에 나누어 보여줄 수 있어 개인 소개 사이트를 만들기에 적합하다고 생각해 선택했습니다.
-          
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
 
   # Achievements
   achievements:
