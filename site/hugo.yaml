@@ -373,7 +373,7 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/vaeexng
-      instagram: https://www.instagram.com/vaeexng?mdxt=NHl3aXhrYmYzNnUw&utm_source=qr%0A
+      instagram: https://www.instagram.com/vaeexng
 
   # List pages like blogs and posts
   listPages:
