@@ -371,10 +371,10 @@ params:
 
   # For translations
   terms:
-    read: "Read"
-    toc: "Table Of Contents"
-    copyright: "All rights reserved"
-    emailText: "Check out this site"
+    read: "읽기"
+    toc: "목차"
+    copyright: "© 2026 Bae Haein. All rights reserved."
+    emailText: "이 사이트 공유하기"
 
   datesFormat:
     article: "Jan 2, 2006"
