@@ -120,7 +120,7 @@ params:
     title: "배해인 입니다"
     subtitle: "웹 개발 공부"
     content: "컴퓨터인공지능학과 학생이고, 웹 개발을 공부하고 있습니다. 지금은 간단한 사이트를 직접 만들고 배포하는 연습을 하고 있습니다."
-    image: /images/hero.svg
+    image: /images/me.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
