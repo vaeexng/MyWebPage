@@ -4,6 +4,7 @@
         <a href="{{ .url }}"
             {{ if not (hasPrefix .url "#") }} target="_blank" {{ end }}
             class="btn social-icon"
+            {{ with .name }} aria-label="{{ . }}" {{ end }}
         >
             <i class="{{ .icon }}"></i>
         </a>
