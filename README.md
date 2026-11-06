@@ -13,22 +13,25 @@ Hugo와 GitHub Pages로 만든 개인 소개 사이트입니다.
 
 ## 내 컴퓨터에서 빌드하고 확인하기
 
-1. Hugo extended 0.143.0 이상을 설치합니다. 맥은 `brew install hugo`를 쓰고, `hugo version`으로 확인합니다.
+1. Hugo extended를 설치합니다. 이 저장소는 **0.143.0**으로 확인했습니다. 설치 후 `hugo version`에 `extended`가 보여야 합니다.
+   - 맥에서 Homebrew를 쓰는 경우: `brew install hugo`
+   - Homebrew가 없는 경우: https://github.com/gohugoio/hugo/releases/tag/v0.143.0 에서 `darwin-universal`이 들어간 `extended` 파일을 받아 `hugo` 실행 파일을 PATH가 걸린 폴더에 둡니다.
 2. 저장소를 내려받습니다.
    ```
    git clone https://github.com/vaeexng/MyWebPage.git
    cd MyWebPage
    ```
-3. 필요한 의존성을 설치하고 빌드합니다. 결과는 `public/` 폴더에 생깁니다.
+3. 사이트를 빌드합니다. 결과는 `public/` 폴더에 생깁니다.
    ```
-   python3 .github/pages_build.py --dependencies
    SITE_BASE_URL=http://localhost:8000/ python3 .github/pages_build.py --build
    ```
 4. 만들어진 사이트를 열어 확인합니다.
    ```
    python3 -m http.server 8000 -d public
    ```
-   브라우저에서 http://localhost:8000/ 을 엽니다.
+   브라우저에서 http://localhost:8000/ 을 엽니다. 끄려면 터미널에서 `Ctrl+C`를 누릅니다.
+
+macOS 13.0, Python 3.14.4, Hugo 0.143.0 extended 환경에서 위 3, 4번 명령으로 `public/index.html`이 만들어지고 사이트가 열리는 것을 확인했습니다.
 
 ## 내용을 수정하고 배포하기
 
