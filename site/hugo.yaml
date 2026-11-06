@@ -283,7 +283,7 @@ params:
   # projects
   projects:
     enable: true
-    # title: "Custom Name"
+    title: "프로젝트"
     items:
       - title: Hugo 개인 소개 웹사이트
         content: |-
