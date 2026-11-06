@@ -275,6 +275,7 @@ params:
           - "GitHub Pages"
         links:
           - icon: fab fa-github
+            name: "MyWebPage 저장소 (GitHub)"
             url: https://github.com/vaeexng/MyWebPage
           
 
@@ -292,8 +293,10 @@ params:
           - "GitHub Actions"
         links:
           - icon: fab fa-github
+            name: "movie-lab 저장소 (GitHub)"
             url: https://github.com/vaeexng/movie-lab
           - icon: fab fa-github
+            name: "movie-lab-actions 저장소 (GitHub)"
             url: https://github.com/vaeexng/movie-lab-actions
 
   #Contact
