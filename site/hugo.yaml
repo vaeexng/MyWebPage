@@ -322,7 +322,7 @@ params:
   #Contact
   contact:
     enable: true
-    # title: "Custom Name"
+    title: "연락처"
     content: 궁금한 내용이 있으면 언제든 연락해 주세요.
     btnName: 메일 보내기
     btnLink: mailto:vaeexng2@jbnu.ac.kr
