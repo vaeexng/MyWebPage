@@ -340,7 +340,7 @@ params:
   terms:
     read: "읽기"
     toc: "목차"
-    copyright: "All rights reserved."
+    copyright: "무단 복제 및 배포를 금지합니다."
     emailText: "이 사이트 공유하기"
 
   datesFormat:
