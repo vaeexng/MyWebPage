@@ -1,6 +1,6 @@
 baseURL: "https://vaeexng.github.io/MyWebPage/"
 languageCode: "ko"
-title: "Hugo Profile"
+title: "배해인 포트폴리오"
 
 
 # Multilingual configuration
@@ -42,7 +42,7 @@ markup:
 
 
 params:
-  title: "Hugo Profile"
+  title: "배해인 포트폴리오"
   description: "배해인의 개인 소개 및 웹 개발 포트폴리오 사이트입니다."
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
@@ -149,12 +149,12 @@ params:
       Git과 GitHub는 이 사이트를 만들면서 커밋과 배포에 직접 써 보고 있습니다.
     skills:
       enable: true
-      title: "수업과 개인 학습에서 쏘 본 기술과 도구:"
+      title: "수업과 개인 학습에서 써 본 기술과 도구:"
       items:
         - "Java"
         - "C"
         - "Linux 기본 명령어"
-        - "Vs Code"
+        - "VS Code"
         - "Git / GitHub"
         - "Hugo"
         - "GitHub Pages"
